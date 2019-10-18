@@ -5,11 +5,12 @@
 }
 
 body {
-	background-color: #7395AE;
+	background-color: #FFFFFF;
+	text-align: center;
 }
 
 .container {
-	background-color: #E9ECEF;
+	background-color: #F3F3F3;
 	padding: 50px;
 	border-radius: 10px;
 	margin-bottom: 10px;
